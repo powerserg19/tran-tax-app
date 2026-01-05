@@ -22,3 +22,4 @@ export async function initDB() {
     process.exit(1); // status code 1 means failure, 0 success
   }
 }
+
