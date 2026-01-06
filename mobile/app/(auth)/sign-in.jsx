@@ -54,6 +54,7 @@ export default function Page() {
       extraScrollHeight={30}
     >
       <View style={styles.container}>
+        <Text style={styles.title}>TranTrack</Text>
         <Image source={require("../../assets/images/revenue-i4.png")} style={styles.illustration} />
         <Text style={styles.title}>Welcome Back</Text>
 
